@@ -1,0 +1,898 @@
+WEBVTT
+
+1
+00:00:02.130 --> 00:00:02.930
+Shiva Kumar Chary Valaboju: Yeah, you can stop.
+
+2
+00:00:03.310 --> 00:00:04.270
+Shiva Kumar Chary Valaboju: Got it.
+
+3
+00:00:04.570 --> 00:00:04.949
+Jennifer: I'm good.
+
+4
+00:00:04.950 --> 00:00:05.360
+jb2hj@mtmail.mtsu.edu: Yeah.
+
+5
+00:00:05.360 --> 00:00:06.280
+sukanya: Okay.
+
+6
+00:00:08.050 --> 00:00:12.940
+Jennifer: So… so what I was gonna mention is,
+
+7
+00:00:13.480 --> 00:00:19.589
+Jennifer: I was gonna try to get access to, like, what's it called?
+
+8
+00:00:19.590 --> 00:00:23.950
+Shiva Kumar Chary Valaboju: So, did you guys check the GitHub that have been sent? Did you guys accept that it?
+
+9
+00:00:23.950 --> 00:00:24.810
+jb2hj@mtmail.mtsu.edu: Yeah, I…
+
+10
+00:00:24.810 --> 00:00:26.270
+sukanya: No, yeah. I did.
+
+11
+00:00:27.150 --> 00:00:28.030
+Shiva Kumar Chary Valaboju: So, like.
+
+12
+00:00:28.030 --> 00:00:30.199
+Jennifer: Codes and everything so far, so… good.
+
+13
+00:00:30.620 --> 00:00:31.620
+Jennifer: Good work.
+
+14
+00:00:32.119 --> 00:00:36.509
+Shiva Kumar Chary Valaboju: So, actually, I also made an documentation.
+
+15
+00:00:37.430 --> 00:00:40.670
+sukanya: Yeah, what dataset, right? Yeah, I read it. I read it.
+
+16
+00:00:40.670 --> 00:00:45.510
+jb2hj@mtmail.mtsu.edu: I added some… I just added one or two points to it for now.
+
+17
+00:00:45.930 --> 00:00:50.229
+jb2hj@mtmail.mtsu.edu: But I think I'll change… I did a little bit later.
+
+18
+00:00:50.570 --> 00:00:52.579
+jb2hj@mtmail.mtsu.edu: When I'm done with the coding part.
+
+19
+00:00:54.110 --> 00:00:59.630
+Shiva Kumar Chary Valaboju: So, like, when I just gone through the group discussion form that he gave.
+
+20
+00:01:00.110 --> 00:01:03.019
+Shiva Kumar Chary Valaboju: So he's just asking us to go through the…
+
+21
+00:01:03.800 --> 00:01:10.390
+Shiva Kumar Chary Valaboju: data set, and we have, like, two files in it, which is test CSV and train CSV.
+
+22
+00:01:10.810 --> 00:01:11.170
+jb2hj@mtmail.mtsu.edu: Yeah.
+
+23
+00:01:11.170 --> 00:01:16.360
+Shiva Kumar Chary Valaboju: And so, like, as we are gonna working on test dataset, that's what I'm thinking, so…
+
+24
+00:01:16.660 --> 00:01:25.140
+Shiva Kumar Chary Valaboju: Because training is, like… it's not, like… no one's gonna do that, so… I just worked on the train CSV. I just…
+
+25
+00:01:25.330 --> 00:01:32.400
+Shiva Kumar Chary Valaboju: find some, info that I have wrote in the documentation, like, we have, like, key variables, which is, like, who has survived.
+
+26
+00:01:33.230 --> 00:01:37.029
+Shiva Kumar Chary Valaboju: was the, like, gender, and was the P class.
+
+27
+00:01:37.230 --> 00:01:40.120
+jb2hj@mtmail.mtsu.edu: And age, fair, and embarked.
+
+28
+00:01:41.650 --> 00:01:44.450
+Shiva Kumar Chary Valaboju: So that's what I did, and I made some codes.
+
+29
+00:01:44.600 --> 00:01:56.130
+Shiva Kumar Chary Valaboju: And he's asking us, I think he's asking for us to just do some analysis of the dataset, and just do some visualizations, and he also mentioned one accurate and,
+
+30
+00:01:56.920 --> 00:01:59.450
+Shiva Kumar Chary Valaboju: Which is, like, misplaced or.
+
+31
+00:01:59.690 --> 00:02:02.980
+jb2hj@mtmail.mtsu.edu: I think, it's too accurate and then too misleading.
+
+32
+00:02:02.980 --> 00:02:03.990
+sukanya: Oh, basically.
+
+33
+00:02:03.990 --> 00:02:04.770
+Shiva Kumar Chary Valaboju: leaving.
+
+34
+00:02:04.990 --> 00:02:05.650
+jb2hj@mtmail.mtsu.edu: Yeah.
+
+35
+00:02:05.860 --> 00:02:11.900
+sukanya: So, we have… we have to do, like, a different coding, like a previous Project.
+
+36
+00:02:13.130 --> 00:02:13.669
+jb2hj@mtmail.mtsu.edu: Sorry, what?
+
+37
+00:02:13.670 --> 00:02:16.940
+sukanya: We have to do a different code, yeah.
+
+38
+00:02:16.990 --> 00:02:19.150
+jb2hj@mtmail.mtsu.edu: Yeah, it's the same like before.
+
+39
+00:02:19.150 --> 00:02:25.659
+Shiva Kumar Chary Valaboju: Yeah, so, like, we'll just work on our… everyone's individual too accurate and two misleadings.
+
+40
+00:02:25.660 --> 00:02:29.400
+jb2hj@mtmail.mtsu.edu: Yeah. As I did, like, if you wanna do something different.
+
+41
+00:02:29.400 --> 00:02:37.349
+Shiva Kumar Chary Valaboju: as we're gonna make a group discussion, like, group project, like, finalgroup.c, like, PDF, then we can include
+
+42
+00:02:37.580 --> 00:02:40.580
+Shiva Kumar Chary Valaboju: everything, so… that's what I'm thinking.
+
+43
+00:02:40.740 --> 00:02:46.199
+Shiva Kumar Chary Valaboju: And as he mentioned us for us not to give, like, equal… I gave, like, everyone, like.
+
+44
+00:02:46.200 --> 00:02:47.110
+jb2hj@mtmail.mtsu.edu: Yeah, that's what I…
+
+45
+00:02:47.110 --> 00:02:47.580
+sukanya: Yeah, too.
+
+46
+00:02:47.580 --> 00:02:50.800
+jb2hj@mtmail.mtsu.edu: I kind of felt like everything we did…
+
+47
+00:02:51.110 --> 00:03:00.979
+Shiva Kumar Chary Valaboju: Yeah, everyone's had equal contribution, so… That's what I meant, but he just… he just mentioned that there is no equal contribution in a group project, so don't do that for future.
+
+48
+00:03:02.040 --> 00:03:04.789
+jb2hj@mtmail.mtsu.edu: I guess we just ran… we just try and…
+
+49
+00:03:04.940 --> 00:03:07.010
+jb2hj@mtmail.mtsu.edu: do it more detailed, I guess.
+
+50
+00:03:07.010 --> 00:03:15.060
+Shiva Kumar Chary Valaboju: Yeah, so he just said to us, give me a detailed information about what you do and what others do, don't just give an equal thing.
+
+51
+00:03:15.060 --> 00:03:15.560
+jb2hj@mtmail.mtsu.edu: Yeah.
+
+52
+00:03:15.560 --> 00:03:16.879
+Shiva Kumar Chary Valaboju: Guys do the same?
+
+53
+00:03:17.460 --> 00:03:19.050
+jb2hj@mtmail.mtsu.edu: I kinda did the same.
+
+54
+00:03:19.350 --> 00:03:23.390
+sukanya: Even me too. He gave the same review for me, too.
+
+55
+00:03:24.290 --> 00:03:28.459
+jb2hj@mtmail.mtsu.edu: Oh, I think we'll switch it up in this, this group project, then.
+
+56
+00:03:29.300 --> 00:03:30.030
+sukanya: Okay.
+
+57
+00:03:30.200 --> 00:03:31.320
+Shiva Kumar Chary Valaboju: Yeah, we'll see.
+
+58
+00:03:31.990 --> 00:03:47.109
+Shiva Kumar Chary Valaboju: So that's what, actually, it was a pretty small task when compared to the first group, so… Actually, I had an idea to have a meeting on Monday and close this up, and let's do have it in Tuesday and close this up, but I think you guys are very busy.
+
+59
+00:03:47.860 --> 00:03:55.340
+jb2hj@mtmail.mtsu.edu: Yeah, I actually, I'm not gonna lie, I kind of forgot about it, and then I realized, oh yeah, we had to do this too, so it was like…
+
+60
+00:03:55.700 --> 00:03:57.079
+jb2hj@mtmail.mtsu.edu: Started today
+
+61
+00:03:57.860 --> 00:04:09.190
+jb2hj@mtmail.mtsu.edu: But I'll… I did half the stuff, I did two visualizations, but they're, like, kind of basic, so I'll try and do something else by next week, before we write the report.
+
+62
+00:04:09.490 --> 00:04:12.840
+jb2hj@mtmail.mtsu.edu: And then I'll include it in the report.
+
+63
+00:04:13.320 --> 00:04:14.420
+jb2hj@mtmail.mtsu.edu: And we'll see.
+
+64
+00:04:15.950 --> 00:04:16.690
+Shiva Kumar Chary Valaboju: So.
+
+65
+00:04:16.690 --> 00:04:23.499
+Jennifer: But what I was gonna mention is I'm gonna try to see if I can get access to Tableau, or some sort of other
+
+66
+00:04:23.970 --> 00:04:34.310
+Jennifer: thing like that for a little bit more fancy-schmancy visualizations, because some of these, you know, this Python things…
+
+67
+00:04:34.940 --> 00:04:44.160
+Jennifer: as far as, kind of, what our readings were on visualizations and effectiveness on visualizations, I'm not sure if they're really hitting the mark, so I'm gonna try to see…
+
+68
+00:04:44.160 --> 00:04:49.939
+Shiva Kumar Chary Valaboju: Putting a tab value, can we do, like, misleading interpretations or visualizations? I don't think so we can do that.
+
+69
+00:04:51.310 --> 00:05:00.280
+jb2hj@mtmail.mtsu.edu: I mean, it's just… well, the misleading is just you choose the wrong graph for the wrong variables. That is just misleading, or what wrong graph.
+
+70
+00:05:00.280 --> 00:05:05.890
+Shiva Kumar Chary Valaboju: That's what we can do coding, like, we can do that in coding, but I don't think so we can do that in Tableau U as well.
+
+71
+00:05:06.630 --> 00:05:13.349
+jb2hj@mtmail.mtsu.edu: We can, yeah. I've done Tableau in my second semester. It is possible if you want to do it.
+
+72
+00:05:14.730 --> 00:05:16.890
+sukanya: I have no idea what's happening, actually.
+
+73
+00:05:16.890 --> 00:05:18.030
+Shiva Kumar Chary Valaboju: Yeah, so, like.
+
+74
+00:05:18.030 --> 00:05:19.420
+sukanya: Oh yeah.
+
+75
+00:05:19.420 --> 00:05:22.000
+Shiva Kumar Chary Valaboju: I understood, yeah, yeah, yeah, we can do that. So, like.
+
+76
+00:05:22.000 --> 00:05:22.400
+jb2hj@mtmail.mtsu.edu: Absolutely.
+
+77
+00:05:22.400 --> 00:05:34.650
+Shiva Kumar Chary Valaboju: I made… here, when it comes to the misleading interpretations, I just… like, when I have gone through the data set, I've just seen, like, in the survival rate, there was, like, 70%
+
+78
+00:05:34.920 --> 00:05:35.660
+Shiva Kumar Chary Valaboju: like…
+
+79
+00:05:35.880 --> 00:05:54.129
+Shiva Kumar Chary Valaboju: 70% were dead, and 30% were survived, in that it's gonna be, like, 70% of females. So, in misleading interpretations, I gave, like, 70% of the males were survived, and 30% of the survived people were female, so it's gonna be a kind of interpretation, that's what I thought.
+
+80
+00:05:54.450 --> 00:06:00.740
+jb2hj@mtmail.mtsu.edu: Yeah, I still haven't gotten to that part yet, but if you guys have any ideas… Feel free, dude.
+
+81
+00:06:00.740 --> 00:06:12.500
+Shiva Kumar Chary Valaboju: That's what… that's what… so, actually, we've just gone through some data sets, then if we… it gives the real information, then making it reverse, that's what I'm thinking is misleading interpretations or something.
+
+82
+00:06:13.030 --> 00:06:24.069
+Shiva Kumar Chary Valaboju: I just made it same in my coding, that's why I have it. I just took the wrong values, giving, like… the females was survived, actually, but I made it, like, males survived it.
+
+83
+00:06:24.240 --> 00:06:27.369
+Shiva Kumar Chary Valaboju: And I just made, like, the classes, which have, like.
+
+84
+00:06:27.540 --> 00:06:35.389
+Shiva Kumar Chary Valaboju: 3… 3rd grade classes, which are, like, who are having, like, actual survival rate, I made, like, first class grade, I have, like, actual rating.
+
+85
+00:06:36.320 --> 00:06:37.430
+jb2hj@mtmail.mtsu.edu: Yeah, that's…
+
+86
+00:06:37.430 --> 00:06:38.300
+Shiva Kumar Chary Valaboju: Yeah. Those…
+
+87
+00:06:38.300 --> 00:06:46.140
+jb2hj@mtmail.mtsu.edu: That's what I did, too. Those two are the ones that I picked for the accurate visualizations for… based on gender, and then based on class.
+
+88
+00:06:46.380 --> 00:06:57.200
+Jennifer: I'm gonna look into the title, like, rare titles, like the, like, the… you know, like, this fancy-schmancy ladies and lords and stuff like that.
+
+89
+00:06:58.080 --> 00:07:01.549
+Jennifer: I'm gonna try to look into that and see if I can pick something up about it.
+
+90
+00:07:01.550 --> 00:07:02.750
+jb2hj@mtmail.mtsu.edu: Okay.
+
+91
+00:07:03.370 --> 00:07:04.529
+jb2hj@mtmail.mtsu.edu: It's a good idea.
+
+92
+00:07:06.460 --> 00:07:08.839
+Shiva Kumar Chary Valaboju: So, like, Jennifer, you're working on TabW?
+
+93
+00:07:10.830 --> 00:07:12.759
+Jennifer: I'm sorry, can you repeat what you said?
+
+94
+00:07:12.760 --> 00:07:17.129
+Shiva Kumar Chary Valaboju: Or, like, as you said, you're working in Tableau, so you did some stuff in Tableau?
+
+95
+00:07:17.130 --> 00:07:32.429
+Jennifer: I haven't yet. I'm working on trying to, see if I can get access to it and stuff like that, because I think there's a free, like, a way that you can use it for free. I just… that was what I was trying to do, like, right before this meeting started, but I ran out of time.
+
+96
+00:07:32.830 --> 00:07:34.460
+Shiva Kumar Chary Valaboju: You, you can just.
+
+97
+00:07:34.460 --> 00:07:34.830
+Jennifer: as.
+
+98
+00:07:34.830 --> 00:07:35.680
+Shiva Kumar Chary Valaboju: dialoguing with…
+
+99
+00:07:35.680 --> 00:07:46.249
+Jennifer: a different, like, software to visualize it, because I'm… I feel like the Python visualizations aren't as effective as I would like them to be.
+
+100
+00:07:46.250 --> 00:07:48.890
+jb2hj@mtmail.mtsu.edu: I think Python is more time-consuming than
+
+101
+00:07:49.310 --> 00:07:53.960
+jb2hj@mtmail.mtsu.edu: Establish this drag and drop, and then you can figure out what are the perfect… Which plot you need. Yeah.
+
+102
+00:07:54.970 --> 00:07:57.409
+jb2hj@mtmail.mtsu.edu: My thought is that you got a code, and then, you know.
+
+103
+00:07:57.410 --> 00:08:05.439
+Shiva Kumar Chary Valaboju: If you don't have Tableau, you can just sign up with your MTSU mail, I think you'll get, like, free access with our
+
+104
+00:08:05.770 --> 00:08:09.649
+Shiva Kumar Chary Valaboju: empty mail. That's what we need in our taboo courses.
+
+105
+00:08:09.960 --> 00:08:10.959
+Jennifer: Oh, really? Okay.
+
+106
+00:08:10.960 --> 00:08:22.699
+Shiva Kumar Chary Valaboju: You can just try signing up with the empty mail and show your ID card. It's gonna be asking your picture of your ID, and it's gonna give you a key for that. If you insert that key, you will get access for your tablet for free for…
+
+107
+00:08:22.800 --> 00:08:27.320
+Shiva Kumar Chary Valaboju: Until you do get your graduation. That's what I think. Yeah.
+
+108
+00:08:27.320 --> 00:08:27.680
+Jennifer: Okay.
+
+109
+00:08:31.790 --> 00:08:32.620
+Shiva Kumar Chary Valaboju: So that's great, though.
+
+110
+00:08:32.620 --> 00:08:37.269
+Jennifer: So let's… let's set some deadlines on what we want for our next steps. Does that sound okay?
+
+111
+00:08:37.900 --> 00:08:38.570
+Shiva Kumar Chary Valaboju: Yeah.
+
+112
+00:08:39.690 --> 00:08:48.209
+Jennifer: or expectations. Well, should we all, like, do at least one or two? Because I think for total, for our group project, we just have to submit
+
+113
+00:08:48.390 --> 00:08:49.680
+Jennifer: Too good, too bad.
+
+114
+00:08:50.170 --> 00:08:50.990
+Shiva Kumar Chary Valaboju: Amongst us.
+
+115
+00:08:51.480 --> 00:08:51.890
+Shiva Kumar Chary Valaboju: Yeah.
+
+116
+00:08:51.890 --> 00:09:00.240
+Jennifer: We just all create one good, one bad, or… and we decide on which ones we want to present as our…
+
+117
+00:09:00.400 --> 00:09:03.810
+Jennifer: our collective… project submission?
+
+118
+00:09:03.910 --> 00:09:06.059
+Jennifer: Or do you… do you want to do…
+
+119
+00:09:06.390 --> 00:09:09.759
+Jennifer: Each 2 and 2, or something different.
+
+120
+00:09:10.560 --> 00:09:21.650
+Shiva Kumar Chary Valaboju: So, like, that's what… which I said, like, every time, we'll do everyone's do the individual coding for our individual project submissions, and then we'll bring this up for our final group projects, like.
+
+121
+00:09:21.810 --> 00:09:28.970
+Shiva Kumar Chary Valaboju: It's what he did, it's what that did, and we'll choose every part from everyone's, and we'll do it in the group.
+
+122
+00:09:29.320 --> 00:09:31.210
+Shiva Kumar Chary Valaboju: final PDF.
+
+123
+00:09:31.630 --> 00:09:32.970
+Shiva Kumar Chary Valaboju: And we're gonna…
+
+124
+00:09:33.580 --> 00:09:40.640
+Jennifer: do a 5-minute presentation. Did he want everyone's… every single visualization? I thought he just wanted too… too good and too bad.
+
+125
+00:09:40.640 --> 00:09:44.130
+sukanya: Probably too and… yeah, too good and too bad, right? Like, yeah.
+
+126
+00:09:44.130 --> 00:09:48.640
+Shiva Kumar Chary Valaboju: But… I think we should do our individual submission also, right? So…
+
+127
+00:09:49.480 --> 00:09:58.869
+Shiva Kumar Chary Valaboju: Same as for the group one… group project that we have done for previous, let's do the same, and if you want to follow the new process, that's okay, like, no problem.
+
+128
+00:10:00.670 --> 00:10:04.589
+Jennifer: I just think… If, as a group, we only need
+
+129
+00:10:04.910 --> 00:10:07.009
+Jennifer: Too… too good, too bad can be.
+
+130
+00:10:07.010 --> 00:10:07.620
+Shiva Kumar Chary Valaboju: Yes.
+
+131
+00:10:07.620 --> 00:10:17.570
+Jennifer: I mean, we're all going to individually create our own, but if we all create one good, one bad, and then we can, in our next meeting, we can come together and decide which ones we want to use.
+
+132
+00:10:18.570 --> 00:10:28.139
+Shiva Kumar Chary Valaboju: I don't think so, it's gonna be… it's gonna be nothing if you're gonna be… do, like, 3 good, 3 bad. He didn't say that you need to do only 2 or something.
+
+133
+00:10:28.600 --> 00:10:36.530
+jb2hj@mtmail.mtsu.edu: It… it depends, or whatever you want to do. It's individual code, so if you want to do two, go ahead with two. If you want to do one, that's your choice.
+
+134
+00:10:36.700 --> 00:10:38.770
+jb2hj@mtmail.mtsu.edu: Because the report is eventually gonna have…
+
+135
+00:10:38.770 --> 00:10:41.840
+Jennifer: I'm just trying to make everyone's room lighter, that's all.
+
+136
+00:10:41.840 --> 00:10:42.320
+Shiva Kumar Chary Valaboju: Yeah.
+
+137
+00:10:42.320 --> 00:10:51.660
+jb2hj@mtmail.mtsu.edu: I, yeah, yeah, yeah, I get it. What are we doing for the… did he give a, like, a structure for the report, or anything, like, last time? I…
+
+138
+00:10:51.660 --> 00:10:52.519
+Shiva Kumar Chary Valaboju: Yeah, definitely agree.
+
+139
+00:10:52.520 --> 00:10:54.610
+jb2hj@mtmail.mtsu.edu: I just started writing, so…
+
+140
+00:10:56.510 --> 00:11:13.210
+Shiva Kumar Chary Valaboju: So that's what I said, like, if we have, like, 3, good visualizations and 3 bad visualizations, which are, like, hey, we need to just put it in the project, then we'll go ahead and do that. Like, he didn't say that to do only 2. He didn't restrict that 2.
+
+141
+00:11:13.440 --> 00:11:31.850
+Shiva Kumar Chary Valaboju: So, like, yeah, that's what I mean. And if you guys, like, let's do some loading or less loading, we can go ahead, because actually, I made some codes, and Jay also made some codes. Then you guys work on the, what we say, the PDF format as last time.
+
+142
+00:11:32.040 --> 00:11:44.519
+Shiva Kumar Chary Valaboju: Then you can do that. If you want, you can do the coding, then you can also… let's have a meeting, and let's have a discussion on the codes, then we can choose what to put in the PDF, what to put in final presentation.
+
+143
+00:11:44.520 --> 00:11:48.269
+jb2hj@mtmail.mtsu.edu: I think that's for next week, right? Yeah, for the next week, so… Yeah.
+
+144
+00:11:49.580 --> 00:11:50.340
+jb2hj@mtmail.mtsu.edu: Sounds good.
+
+145
+00:11:50.340 --> 00:11:51.900
+Shiva Kumar Chary Valaboju: Guys, we have a lot of time.
+
+146
+00:11:52.200 --> 00:11:55.660
+Shiva Kumar Chary Valaboju: My best solution is to work individually on the code.
+
+147
+00:11:55.850 --> 00:12:06.220
+Shiva Kumar Chary Valaboju: Find our best visualizations, find our bad visualizations, and have a meeting, and let's discuss them, so that we have a lot of content, a lot of discussions going on.
+
+148
+00:12:06.500 --> 00:12:12.369
+Shiva Kumar Chary Valaboju: So it's gonna be a, like, interaction. So that's what I mean. And that's what the professor also wants to do.
+
+149
+00:12:12.770 --> 00:12:13.670
+jb2hj@mtmail.mtsu.edu: Yeah.
+
+150
+00:12:14.090 --> 00:12:18.079
+Jennifer: Okay, so let's, talk about the time of our next meeting.
+
+151
+00:12:19.400 --> 00:12:20.380
+Shiva Kumar Chary Valaboju: Totally.
+
+152
+00:12:20.380 --> 00:12:22.500
+Jennifer: Except we're fishing for the planet now.
+
+153
+00:12:22.770 --> 00:12:28.400
+Shiva Kumar Chary Valaboju: So, like, If you want me, like, the deadline for this is… let me see that…
+
+154
+00:12:28.400 --> 00:12:30.330
+jb2hj@mtmail.mtsu.edu: Probably Wednesday, to…
+
+155
+00:12:30.330 --> 00:12:31.160
+Shiva Kumar Chary Valaboju: It's gonna be 50.
+
+156
+00:12:31.160 --> 00:12:31.560
+jb2hj@mtmail.mtsu.edu: Nice.
+
+157
+00:12:31.560 --> 00:12:36.030
+Shiva Kumar Chary Valaboju: Feb 25th, so it's gonna be, like, just a week.
+
+158
+00:12:36.250 --> 00:12:38.639
+Jennifer: So we'll have a meeting on…
+
+159
+00:12:40.020 --> 00:12:47.660
+Shiva Kumar Chary Valaboju: after Thursday, or Friday, or Saturday something, and we'll have a meeting on 24. Like, we should have, like, 2 meetings.
+
+160
+00:12:47.870 --> 00:12:57.349
+Shiva Kumar Chary Valaboju: If you ask me. Let's do, like, 3 meetings for every group project. That's what I meant to do, have a meeting on Monday, and after the class, and after Tuesday.
+
+161
+00:12:57.830 --> 00:13:02.340
+jb2hj@mtmail.mtsu.edu: I feel like meetings are excessive if we don't have anything to contribute or talk about in a meeting.
+
+162
+00:13:02.340 --> 00:13:03.529
+Shiva Kumar Chary Valaboju: If you're me, if you want…
+
+163
+00:13:03.530 --> 00:13:05.179
+Jennifer: Have a meeting just to have a meeting.
+
+164
+00:13:05.410 --> 00:13:08.390
+Shiva Kumar Chary Valaboju: So, like, let's meet on 24th, if you need.
+
+165
+00:13:08.590 --> 00:13:10.499
+jb2hj@mtmail.mtsu.edu: What day is 24th?
+
+166
+00:13:10.500 --> 00:13:11.510
+Shiva Kumar Chary Valaboju: It's Tuesday.
+
+167
+00:13:12.700 --> 00:13:13.280
+jb2hj@mtmail.mtsu.edu: I…
+
+168
+00:13:13.280 --> 00:13:14.240
+Shiva Kumar Chary Valaboju: for the submission.
+
+169
+00:13:14.240 --> 00:13:14.650
+Jennifer: Nope.
+
+170
+00:13:14.650 --> 00:13:16.610
+jb2hj@mtmail.mtsu.edu: That's… that's fine. We can do…
+
+171
+00:13:16.610 --> 00:13:23.159
+Jennifer: I mean, maybe make on the 22nd or 23rd, just to give us some more time in case, at that meeting, we feel like we need to…
+
+172
+00:13:23.790 --> 00:13:24.820
+Shiva Kumar Chary Valaboju: Yeah, no problem.
+
+173
+00:13:24.970 --> 00:13:25.410
+Jennifer: Okay.
+
+174
+00:13:25.410 --> 00:13:25.940
+jb2hj@mtmail.mtsu.edu: Whoa.
+
+175
+00:13:26.350 --> 00:13:33.629
+jb2hj@mtmail.mtsu.edu: Can we do 23rd? Because I have to wake up at 5am for 4 days, so I probably gotta go to bed earlier than…
+
+176
+00:13:33.810 --> 00:13:34.880
+Shiva Kumar Chary Valaboju: Sure. Usual.
+
+177
+00:13:34.880 --> 00:13:39.100
+jb2hj@mtmail.mtsu.edu: So, we could do Monday at night, or whenever you guys are free on Monday.
+
+178
+00:13:39.710 --> 00:13:40.110
+sukanya: It's my…
+
+179
+00:13:40.110 --> 00:13:41.449
+Shiva Kumar Chary Valaboju: And there's gonna be up to 10.
+
+180
+00:13:42.490 --> 00:13:43.680
+Jennifer: What time?
+
+181
+00:13:44.050 --> 00:13:46.229
+Shiva Kumar Chary Valaboju: After 10, I'm babe feeding after 10.
+
+182
+00:13:46.230 --> 00:13:47.890
+jb2hj@mtmail.mtsu.edu: Is that fine with everyone?
+
+183
+00:13:48.410 --> 00:13:54.889
+sukanya: Oh, Monday I have a shift in college, I'll do that. I'm busy at up to 10.30.
+
+184
+00:13:57.100 --> 00:14:02.109
+jb2hj@mtmail.mtsu.edu: After 10.30. So, is everyone okay with 10.30?
+
+185
+00:14:02.410 --> 00:14:04.799
+jb2hj@mtmail.mtsu.edu: Or 11, whatever time works.
+
+186
+00:14:06.460 --> 00:14:09.490
+Jennifer: Let's say 10.30 or 10.45 or something.
+
+187
+00:14:09.730 --> 00:14:16.990
+jb2hj@mtmail.mtsu.edu: Yeah, something like last time, like we did. We can keep it short, because it's just we're discussing what the best visualizations would be to put.
+
+188
+00:14:16.990 --> 00:14:17.359
+sukanya: the report.
+
+189
+00:14:17.600 --> 00:14:26.299
+Jennifer: Yeah, so let's make sure, like, we all try to at least, like, submit our stuff while before the meeting, so that everyone has a chance to, like, look at it.
+
+190
+00:14:26.610 --> 00:14:28.400
+jb2hj@mtmail.mtsu.edu: Yeah, I think… yeah.
+
+191
+00:14:28.400 --> 00:14:31.700
+Jennifer: Because I don't want to have a meeting where, like, oh, I haven't even looked at it yet.
+
+192
+00:14:31.960 --> 00:14:33.120
+jb2hj@mtmail.mtsu.edu: Yeah, I agree.
+
+193
+00:14:33.530 --> 00:14:39.400
+Jennifer: So, before the meeting, can we have a deadline of when we… maybe Sunday night to have…
+
+194
+00:14:40.040 --> 00:14:44.410
+Jennifer: have everyone have contributed something?
+
+195
+00:14:44.410 --> 00:14:50.539
+jb2hj@mtmail.mtsu.edu: I think that's a good idea. Probably Sunday night or Saturday night would probably be better.
+
+196
+00:14:52.830 --> 00:14:53.670
+Shiva Kumar Chary Valaboju: Sorry?
+
+197
+00:14:54.500 --> 00:14:59.400
+jb2hj@mtmail.mtsu.edu: Like, have a deadline to upload your code so that everyone can look at it before the meeting?
+
+198
+00:15:00.870 --> 00:15:03.630
+Shiva Kumar Chary Valaboju: Yeah, as we're having a meeting on Monday.
+
+199
+00:15:04.240 --> 00:15:04.670
+jb2hj@mtmail.mtsu.edu: Yeah.
+
+200
+00:15:04.670 --> 00:15:07.100
+Shiva Kumar Chary Valaboju: I need to upload it, like, a day before so that we can have a call.
+
+201
+00:15:07.100 --> 00:15:07.780
+sukanya: I'm new.
+
+202
+00:15:07.780 --> 00:15:12.850
+jb2hj@mtmail.mtsu.edu: Otherwise, we can, if you upload it on Monday, it's okay, no problem, we can go through those.
+
+203
+00:15:13.120 --> 00:15:17.750
+Shiva Kumar Chary Valaboju: And we can make a discussion before the… Before the meeting.
+
+204
+00:15:18.190 --> 00:15:19.469
+Shiva Kumar Chary Valaboju: I think it doesn't matter.
+
+205
+00:15:19.470 --> 00:15:20.090
+sukanya: Okay.
+
+206
+00:15:20.090 --> 00:15:29.140
+Jennifer: So our next meeting will basically be kind of our judgment of each other's, like, like, like, basically take a vote on what we want to include, basically, right?
+
+207
+00:15:29.940 --> 00:15:31.070
+jb2hj@mtmail.mtsu.edu: Kinda like that.
+
+208
+00:15:31.550 --> 00:15:32.200
+Jennifer: Okay.
+
+209
+00:15:33.370 --> 00:15:35.479
+Jennifer: I'm just trying to make it, like, streamlined.
+
+210
+00:15:35.840 --> 00:15:36.630
+jb2hj@mtmail.mtsu.edu: Yeah.
+
+211
+00:15:37.400 --> 00:15:39.509
+jb2hj@mtmail.mtsu.edu: So… Is that all?
+
+212
+00:15:40.060 --> 00:15:41.370
+Shiva Kumar Chary Valaboju: Yeah, that's gonna be it.
+
+213
+00:15:41.950 --> 00:15:44.679
+jb2hj@mtmail.mtsu.edu: Okay, well, I guess, see you guys on Monday.
+
+214
+00:15:44.890 --> 00:15:48.870
+Shiva Kumar Chary Valaboju: If you guys have any questions in my codes, just reach out to me.
+
+215
+00:15:49.560 --> 00:15:52.549
+Shiva Kumar Chary Valaboju: And if you have any further, just let me know, I will be modifying.
+
+216
+00:15:52.550 --> 00:15:56.019
+jb2hj@mtmail.mtsu.edu: You can just post in the… you can just text in the group chat.
+
+217
+00:15:56.250 --> 00:15:57.650
+Shiva Kumar Chary Valaboju: Yeah. It's fine.
+
+218
+00:15:57.820 --> 00:15:58.370
+Jennifer: Hmm.
+
+219
+00:15:59.480 --> 00:16:01.299
+Jennifer: Alrighty, thank you, everyone!
+
+220
+00:16:01.300 --> 00:16:03.669
+sukanya: Well, good night, everybody.
+
+221
+00:16:03.670 --> 00:16:05.019
+jb2hj@mtmail.mtsu.edu: See you guys on Monday.
+
+222
+00:16:05.690 --> 00:16:06.349
+sukanya: See ya.
+
+223
+00:16:06.350 --> 00:16:08.190
+jb2hj@mtmail.mtsu.edu: Actually, tomorrow. Sorry.
+
+224
+00:16:08.420 --> 00:16:11.610
+Jennifer: Oh yeah, that's right. Yeah. That's right. Yeah.
+
